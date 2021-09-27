@@ -39,7 +39,7 @@ public class TestLogin extends TestBase {
         driver.findElement(By.id("btnLogin")).click();		
         Thread.sleep(5000);
         
-        driver.quit();
+       // driver.quit();
 
 	}
 	
